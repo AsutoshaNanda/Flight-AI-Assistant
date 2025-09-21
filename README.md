@@ -1,4 +1,3 @@
-
 # Flight AI Assistant 
 
 ## Table of Contents
